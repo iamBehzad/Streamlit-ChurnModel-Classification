@@ -17,11 +17,11 @@ def user_input_feature():
     Gender=st.sidebar.selectbox('Gender',['Male','Female'])
     Age = st.sidebar.slider('Age', 18, 100, 30)
     Tenure = st.sidebar.slider('Tenure', 0, 10, 5)
-    Balance = st.sidebar.text_input('Balance')    
+    Balance = st.sidebar.text_input('Balance','10000')    
     NumOfProducts = st.sidebar.slider('Number Of Products', 1, 4, 1)
     HasCrCard=st.sidebar.selectbox('Has Credit Card ?',['Yes', 'No'])
     IsActiveMember=st.sidebar.selectbox('Is Active Member ?',['Yes', 'No'])
-    EstimatedSalary = st.sidebar.text_input('Estimated Salary')  
+    EstimatedSalary = st.sidebar.text_input('Estimated Salary','1000')  
 
     Algorithm=st.sidebar.selectbox('Select Algorithm',['XGBoosClassifier','Random Forest Classifier','Decision Tree Classifier','SVM - Linear Kernel','Logistic Regression'])
 
