@@ -6,6 +6,7 @@ import sklearn as sk
 from pycaret.classification import *
 import datetime
 import pickle
+import xgboost as xgb
 
 st.subheader('Churn Model Prediction')
 
