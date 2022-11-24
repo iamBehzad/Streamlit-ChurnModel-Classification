@@ -11,7 +11,7 @@ Chrun.py ===> Python Codes of deploying XGboost , Random Forest  ,  SVC ,  Logis
 
 فایلهای پیوست گزارش  شامل موارد ذیل می باشند :
 
-1-	Project2.ipynb : در این فایل طبق روال پروژه های قبلی در بخش های مشخص شده کد ها و خروجی های مورد نظر پیاده سازی شده اند.  الگوریتم های استفاده شده برای یادگیری ماشین عبارتند از XGboost وRandom Forest  و  SVC و  Logistic Regression
+1-	Project2.ipynb : در این فایل در بخش های مشخص شده کد ها و خروجی های مورد نظر پیاده سازی شده اند.  الگوریتم های استفاده شده برای یادگیری ماشین عبارتند از XGboost وRandom Forest  و  SVC و  Logistic Regression
 
 2-	PyCaret_Churn.ipynb : این فایل که در گوگل کولب ایجاد گردیده است شامل پیاده سازی و مقایسه مدل های مختلف Classification  با استفاده از ماژول PyCaret می باشد. آدرس دسترسی به این فایل :
 
