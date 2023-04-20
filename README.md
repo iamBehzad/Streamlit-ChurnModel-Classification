@@ -20,9 +20,3 @@ https://iambehzad-streamlit-churnmodel-classification-churn-tlv3zb.streamlit.app
 </p>
 https://iambehzad-streamlit-churnmodel-classification-churn-tlv3zb.streamlit.app/ 
 
-در نهایت تمامی فایلهای فوق به همراه بقیه فایلهای مورد نیاز برای اجرای نرم افزار تحت وبِ Deploy شده در سایت Streamlit در سایت Github به آدرس ذیل قابل دسترسی می باشند:
-
-https://github.com/iamBehzad/Streamlit-ChurnModel-Classification
-
-
-
