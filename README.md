@@ -1,5 +1,4 @@
 # Streamlit Churn Model Classification
-https://iambehzad-streamlit-churnmodel-classification-churn-tlv3zb.streamlit.app/  
 
 ## Project2.ipynb   
   Python Code of XGboost , Random Forest  ,  SVC ,  Logistic Regression Model for prediction Chrun with scikit-learn module    
@@ -8,7 +7,8 @@ https://iambehzad-streamlit-churnmodel-classification-churn-tlv3zb.streamlit.app
   Python Code of some various classification Model for prediction Chrun with PyCaret module  
   
 ## Chrun.py   
-  Python Codes of deploying XGboost , Random Forest  ,  SVC ,  Logistic Regression Model on Streamlit  
+  Python Codes of deploying XGboost , Random Forest  ,  SVC ,  Logistic Regression Model on Streamlit:  
+  https://iambehzad-streamlit-churnmodel-classification-churn-tlv3zb.streamlit.app/  
 <br><br><br>
 <p dir='rtl' align='right'>1-	Project2.ipynb : در این فایل در بخش های مشخص شده کد ها و خروجی های مورد نظر پیاده سازی شده اند.  الگوریتم های استفاده شده برای یادگیری ماشین عبارتند از XGboost وRandom Forest  و  SVC و  Logistic Regression
 </p>
