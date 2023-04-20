@@ -1,4 +1,4 @@
-# Streamlit-ChurnModel-Classification
+# Streamlit Churn Model Classification
 https://iambehzad-streamlit-churnmodel-classification-churn-tlv3zb.streamlit.app/  
 
 ## Project2.ipynb   
