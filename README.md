@@ -1,13 +1,13 @@
 # Streamlit Churn Model Classification
 
 ## Project2.ipynb   
-  Python Code of XGboost , Random Forest  ,  SVC ,  Logistic Regression Model for prediction Chrun with scikit-learn module    
+This project provides Python code for predicting customer churn using classification models such as XGBoost, RandomForestClassifier, SVC, and LogisticRegression, all of which are included in the scikit-learn and PyCaret modules. The project also offers exploratory data analysis, visualization, and storytelling techniques to better understand the data.
   
 ## PyCaret_Vaccination.ipynb   
   Python Code of some various classification Model for prediction Chrun with PyCaret module  
   
 ## Chrun.py   
-  Python Codes of deploying XGboost , Random Forest  ,  SVC ,  Logistic Regression Model on Streamlit:  
+ This Python code provides deployment capabilities for these models using Streamlit, which makes it easy to access and share them.
   https://iambehzad-streamlit-churnmodel-classification-churn-tlv3zb.streamlit.app/  
 <br><br><br>
 <p dir='rtl' align='right'>1-	Project2.ipynb : در این فایل در بخش های مشخص شده کد ها و خروجی های مورد نظر پیاده سازی شده اند.  الگوریتم های استفاده شده برای یادگیری ماشین عبارتند از XGboost وRandom Forest  و  SVC و  Logistic Regression
