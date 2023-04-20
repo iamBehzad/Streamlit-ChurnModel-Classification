@@ -7,7 +7,7 @@ This project provides Python code for predicting customer churn using classifica
 Python Code of some various classification Model for prediction Chrun with PyCaret module  
   
 ## Chrun.py   
-This Python code provides deployment capabilities for XGBoost, RandomForestClassifier, SVC, and LogisticRegression  models using Streamlit, which makes it easy to access and share them.
+This Python code provides deployment capabilities for XGBoost, RandomForestClassifier, SVC, and LogisticRegression  models using Streamlit, which makes it easy to access and share them.  
   https://iambehzad-streamlit-churnmodel-classification-churn-tlv3zb.streamlit.app/  
 <br><br><br>
 <p dir='rtl' align='right'>1-	Project2.ipynb : در این فایل در بخش های مشخص شده کد ها و خروجی های مورد نظر پیاده سازی شده اند.  الگوریتم های استفاده شده برای یادگیری ماشین عبارتند از XGboost وRandom Forest  و  SVC و  Logistic Regression
